@@ -140,9 +140,6 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 <a href="https://github.com/sachinashokyadav">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
 </a>
-<a href="https://github.com/sachinashokyadav">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinashokyadav&layout=compact&hide_border=true&langs_count=8" alt="Most used languages on GitHub" />
-</a>
 
 <img src="https://streak-stats.demolab.com?user=sachinashokyadav&hide_border=true" alt="GitHub contribution streak" width="70%" />
 
