@@ -42,6 +42,15 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 ---
 
+## 🧰 Technology Toolbox
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins&perline=7" alt="AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins" />
+</div>
+
+
+---
+
 ## 🧭 Portfolio map
 
 | Area | What you'll find here |
@@ -107,13 +116,6 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 **Repository:** https://github.com/sachinashokyadav/devops_tools.git
 
----
-
-## 🧰 Technology Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins&perline=7" alt="AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins" />
-</div>
 
 ---
 
