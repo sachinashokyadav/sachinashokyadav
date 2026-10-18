@@ -1,59 +1,90 @@
-# Sachin Yadav
-Senior DevSecOps Engineer
+<!-- Banner: replace banner.png if you use a different file -->
+<div align="center">
+  <img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
+</div>
 
+<div align="center">
+
+# Sachin Yadav
+**Senior DevSecOps Engineer**  
 Building secure, scalable, and repeatable cloud platforms, CI/CD pipelines, and automation for production environments.
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-yadav-20051999)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.ashok.yadav18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinashokyadav)
+
+</div>
 
 ---
 
 ## About
-I focus on cloud infrastructure, platform engineering, CI/CD, and security automation. I design and implement repeatable infrastructure (Terraform/Ansible), production-ready Kubernetes platforms (EKS / OpenShift), and secure delivery pipelines with automated security checks.
+I design and implement production-ready cloud platforms, platform engineering patterns, and secure delivery pipelines. My work focuses on delivering repeatable infrastructure, resilient Kubernetes platforms, and CI/CD with integrated security checks to reduce risk and speed delivery.
 
-I use this GitHub profile to share reusable automation, architecture patterns, and operational runbooks.
-
----
-
-## Core Expertise
-- Cloud: AWS, Azure
-- Containerization & Orchestration: Docker, Kubernetes (EKS, OpenShift)
-- CI/CD & Automation: GitLab CI/CD, Jenkins, GitHub Actions
-- Infrastructure as Code: Terraform, Ansible
-- DevSecOps: SAST, dependency/image scanning (SonarQube, Trivy, JFrog Xray)
-- Artifact & Registry: JFrog Artifactory, Amazon ECR
-- Systems: RHEL Linux, Windows Server
+Key focus: Cloud infrastructure · Platform engineering · CI/CD · DevSecOps · Automation
 
 ---
 
-## Featured work
-Repository: https://github.com/sachinashokyadav/devops_tools
+## Highlights
+- Built repeatable AWS environments with modular Terraform
+- Production-minded Kubernetes patterns (EKS / OpenShift) with runbooks
+- Secure CI/CD reference pipelines: code, dependency, and image scanning
+- Automation and configuration management with Ansible and Terraform
 
-Contents highlights:
-- Reusable Terraform modules and AWS environment blueprints
-- Secure CI/CD reference pipelines with code, dependency and image scanning
-- Kubernetes deployment patterns (Deployments, Probes, Autoscaling) and runbooks
-- Ansible roles for repeatable server configuration and safe secret handling
+---
 
-(If you want, I can split these into separate repositories or add direct links to each module.)
+## Tech stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,trivy,sonarqube&perline=11" alt="Tech icons" />
+</div>
+
+---
+
+## Featured projects
+- DevOps toolkit — https://github.com/sachinashokyadav/devops_tools  
+  Reusable Terraform modules, CI/CD pipeline templates with SAST/DAST/image scanning, Kubernetes deployment patterns, and Ansible roles for repeatable server configuration.
+
+(If you prefer, I can split major modules into individual repositories and add direct links to each.)
 
 ---
 
 ## Certifications & Education
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- AWS Certified Cloud Practitioner
-- DevOps & Cloud Computing — DevOps Institute
-- M.Tech, Computing Systems & Infrastructure — BITS Pilani
+- Microsoft Certified: Azure Administrator Associate (AZ-104)  
+- AWS Certified Cloud Practitioner  
+- DevOps & Cloud Computing — DevOps Institute  
+- M.Tech, Computing Systems & Infrastructure — BITS Pilani  
 - B.Sc, Computer Science — University of Mumbai
 
 ---
 
+## How I work
+- Infrastructure as code with clear inputs/outputs and reviewable modules
+- Shift-left security: automated scanning in CI pipelines and policy gates
+- Observability and runbooks for operational readiness and rapid recovery
+- Idempotent automation and least-privilege access patterns
+
+---
+
 ## Connect
-- LinkedIn: https://linkedin.com/in/sachin-yadav-20051999
-- Email: sachin.ashok.yadav18@gmail.com
-- GitHub: https://github.com/sachinashokyadav
+- LinkedIn — https://linkedin.com/in/sachin-yadav-20051999  
+- Email — sachin.ashok.yadav18@gmail.com  
+- GitHub — https://github.com/sachinashokyadav
+
+---
+
+<details>
+<summary>Optional: GitHub stats</summary>
+
+<div align="center">
+
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true&theme=dark&include_all_commits=true)](https://github.com/sachinashokyadav)
+
+</div>
+</details>
 
 ---
 
 <div align="center">
-<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
-</div>
-
 > Building secure, scalable, and reliable systems — one automation at a time.
+</div>
