@@ -62,7 +62,6 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 | ⚙️ Automation | Ansible roles, Bash scripts, repeatable operations |
 | 📚 Engineering notes | Runbooks, troubleshooting guides, architecture diagrams |
 
-> **Portfolio integrity:** Project ideas below are intended as a roadmap. Link each item to a repository only after the implementation is published.
 
 ## 🚀 Featured projects
 
