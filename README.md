@@ -1,30 +1,59 @@
-<h1 align="center">Hi 👋, I'm Sachin Yadav</h1>
-<h3 align="center">Senior DevSecOps Engineer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinashokyadav&label=Profile%20views&color=0e75b6&style=flat" alt="sachinashokyadav" /> </p>
+<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinashokyadav" alt="sachinashokyadav" /></a> </p>
+# Sachin Yadav
+### Senior DevSecOps Engineer
 
-- 🌱 I’m currently learning **Architect**
+**Cloud Infrastructure · CI/CD · Kubernetes · DevSecOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sachinashokyadav/devops_tools.git](https://github.com/sachinashokyadav/devops_tools.git)
+<a href="https://linkedin.com/in/sachin-yadav-20051999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="mailto:sachin.ashok.yadav18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
-- 💬 Ask me about **DevOps and Cloud**
+</div>
 
-- 📫 How to reach me **sachin.ashok.yadav18@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i0gqH0cXVkLZLkJj_CduKV3O8KG27ZSK/view?usp=share_link](https://drive.google.com/file/d/1i0gqH0cXVkLZLkJj_CduKV3O8KG27ZSK/view?usp=share_link)
+## About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/sachin-yadav-20051999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/sachin-yadav-20051999" height="30" width="40" /></a>
-</p>
+DevOps / DevSecOps Engineer with 5+ years of experience automating CI/CD pipelines, managing cloud infrastructure, and deploying containerized applications. Focused on secure, scalable, and repeatable delivery using **AWS, Azure, Kubernetes, Terraform, Docker, and GitLab CI/CD**.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
+## Tech Stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachinashokyadav&show_icons=true&locale=en&layout=compact" alt="sachinashokyadav" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,git,github,gitlab,jenkins,bash,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Git, GitHub, GitLab, Jenkins, Bash, Linux" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&locale=en" alt="sachinashokyadav" /></p>
+**DevSecOps:** SonarQube · Trivy · Fortify · OWASP Dependency-Check · JFrog Xray  
+**Platforms:** Amazon EKS · OpenShift · JFrog Artifactory · Amazon ECR
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinashokyadav&" alt="sachinashokyadav" /></p>
+## Featured Projects
+
+| Project | Focus |
+|---|---|
+| **AWS Infrastructure with Terraform** | Reusable IaC modules and cloud environment provisioning |
+| **Secure CI/CD Pipeline** | Automated builds, security scans, and container publishing |
+| **Kubernetes on Amazon EKS** | Container deployments, health checks, scaling, and rollbacks |
+
+*Project links will be added as repositories are published.*
+
+## GitHub Analytics
+
+<div align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true" alt="GitHub stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinashokyadav&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinashokyadav&theme=github-compact&hide_border=true" alt="Contribution activity graph" width="100%" />
+</div>
+
+## Certifications
+
+AWS Certified Cloud Practitioner · Microsoft Azure Administrator Associate (AZ-104) · Azure Fundamentals (AZ-900)
+
+---
+
+<div align="center">
+  <a href="https://github.com/sachinashokyadav">GitHub</a> ·
+  <a href="https://linkedin.com/in/sachin-yadav-20051999">LinkedIn</a> ·
+  <a href="mailto:sachin.ashok.yadav18@gmail.com">Email</a>
+  <br/><sub>Automate. Secure. Scale.</sub>
+</div>
