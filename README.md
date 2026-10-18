@@ -1,174 +1,59 @@
-<!--
-  GitHub Profile README
-  Repository name: sachinashokyadav
-  Replace the banner path if you upload it under a different filename.
--->
-
-<div align="center">
-
 # Sachin Yadav
-### Senior DevSecOps Engineer
+Senior DevSecOps Engineer
 
-**Cloud Infrastructure · CI/CD · Kubernetes · Automation**
-
-
-<a href="https://linkedin.com/in/sachin-yadav-20051999">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sachin.ashok.yadav18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/sachinashokyadav">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+Building secure, scalable, and repeatable cloud platforms, CI/CD pipelines, and automation for production environments.
 
 ---
 
-## `whoami` — A little about me
+## About
+I focus on cloud infrastructure, platform engineering, CI/CD, and security automation. I design and implement repeatable infrastructure (Terraform/Ansible), production-ready Kubernetes platforms (EKS / OpenShift), and secure delivery pipelines with automated security checks.
 
-I work at the intersection of **cloud infrastructure, platform engineering, CI/CD, and security automation**. My day-to-day experience includes building delivery pipelines, managing Kubernetes and OpenShift workloads, provisioning infrastructure with Terraform, and integrating security checks into software delivery.
-
-- ☁️ Cloud platforms: AWS and Microsoft Azure
-- 🔁 Delivery automation: GitLab CI/CD and Jenkins
-- 📦 Platform engineering: Docker, Kubernetes, Amazon EKS, OpenShift
-- 🏗️ Infrastructure as Code: Terraform and Ansible
-- 🔐 Secure delivery: Fortify, SonarQube, JFrog Xray, Trivy, OWASP Dependency-Check
-- 🧰 Artifact and build tooling: JFrog Artifactory, Amazon ECR, Maven
-- 🖥️ Systems: RHEL Linux, Windows Server, IIS
-
-I use this GitHub profile to document hands-on labs, reusable automation, architecture decisions, and practical DevSecOps patterns.
+I use this GitHub profile to share reusable automation, architecture patterns, and operational runbooks.
 
 ---
 
-## 🧰 Technology Toolbox
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins&perline=7" alt="AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins" />
-</div>
-
-
----
-
-## 🧭 Portfolio map
-
-| Area | What you'll find here |
-|---|---|
-| ☁️ Cloud & IaC | Terraform modules, AWS architecture labs, environment provisioning |
-| 🔁 CI/CD | Pipeline templates, build automation, release workflows |
-| ☸️ Kubernetes | Deployments, services, ingress, probes, autoscaling, operational notes |
-| 🔐 DevSecOps | SAST, dependency and image scanning, pipeline security gates |
-| ⚙️ Automation | Ansible roles, Bash scripts, repeatable operations |
-| 📚 Engineering notes | Runbooks, troubleshooting guides, architecture diagrams |
-
-
-## 🚀 Featured projects
-
-<!-- Replace the placeholder links with your real repositories when published. -->
-
-### 01 · AWS Infrastructure as Code
-**Goal:** Build repeatable, reviewable AWS environments.
-
-`AWS` `Terraform` `VPC` `IAM` `EC2`
-
-- Reusable Terraform modules for network and compute resources
-- Separate configuration for development, staging, and production
-- Input validation, outputs, and documented deployment / teardown steps
-- Security-conscious defaults and a clear cost-cleanup guide
-
-**Repository:** https://github.com/sachinashokyadav/devops_tools.git
-
-### 02 · Secure CI/CD reference pipeline
-**Goal:** Demonstrate a build-to-deploy workflow with security integrated early.
-
-`GitLab CI/CD` `Docker` `SonarQube` `Trivy` `JFrog`
-
-- Build and test an example application
-- Scan code, dependencies, and container images
-- Publish versioned artifacts and container images
-- Document quality gates and failure handling
-
-**Repository:** https://github.com/sachinashokyadav/devops_tools.git
-
-### 03 · Kubernetes application platform on Amazon EKS
-**Goal:** Show a production-minded deployment pattern for containerized workloads.
-
-`Kubernetes` `Amazon EKS` `Docker` `Terraform`
-
-- Kubernetes Deployments, Services, ConfigMaps, and Ingress
-- Readiness and liveness probes plus resource requests and limits
-- Autoscaling and rollout / rollback demonstrations
-- Operational runbook and architecture diagram
-
-**Repository:** https://github.com/sachinashokyadav/devops_tools.git
-
-### 04 · Ansible configuration automation
-**Goal:** Make repeatable server configuration easy to understand and maintain.
-
-`Ansible` `Linux` `Bash` `YAML`
-
-- Reusable roles and environment-specific variables
-- Idempotent configuration tasks
-- Clear inventory structure and usage documentation
-- Safe handling guidance for secrets
-
-**Repository:** https://github.com/sachinashokyadav/devops_tools.git
-
+## Core Expertise
+- Cloud: AWS, Azure
+- Containerization & Orchestration: Docker, Kubernetes (EKS, OpenShift)
+- CI/CD & Automation: GitLab CI/CD, Jenkins, GitHub Actions
+- Infrastructure as Code: Terraform, Ansible
+- DevSecOps: SAST, dependency/image scanning (SonarQube, Trivy, JFrog Xray)
+- Artifact & Registry: JFrog Artifactory, Amazon ECR
+- Systems: RHEL Linux, Windows Server
 
 ---
 
-## 📊 GitHub activity & analytics
+## Featured work
+Repository: https://github.com/sachinashokyadav/devops_tools
 
-<div align="center">
+Contents highlights:
+- Reusable Terraform modules and AWS environment blueprints
+- Secure CI/CD reference pipelines with code, dependency and image scanning
+- Kubernetes deployment patterns (Deployments, Probes, Autoscaling) and runbooks
+- Ansible roles for repeatable server configuration and safe secret handling
 
-<a href="https://github.com/sachinashokyadav">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-</a>
-
-<img src="https://streak-stats.demolab.com?user=sachinashokyadav&hide_border=true" alt="GitHub contribution streak" width="70%" />
-
-</div>
-
+(If you want, I can split these into separate repositories or add direct links to each module.)
 
 ---
 
-## 🏅 Certifications
-
-- DevOps and Cloud Computing — DevOps Institute, Mumbai
+## Certifications & Education
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - AWS Certified Cloud Practitioner
-- Microsoft Certified: Azure Fundamentals (AZ-900)
-
-
-## 🎓 Education
-
-- **M.Tech, Computing Systems & Infrastructure** — BITS Pilani
-- **B.Sc, Computer Science** — University of Mumbai
+- DevOps & Cloud Computing — DevOps Institute
+- M.Tech, Computing Systems & Infrastructure — BITS Pilani
+- B.Sc, Computer Science — University of Mumbai
 
 ---
 
-## 🤝 Connect
-
-<div align="center">
-
-If you're interested in cloud platforms, infrastructure automation, Kubernetes, or secure software delivery, let's connect.
-
-<a href="https://linkedin.com/in/sachin-yadav-20051999">LinkedIn</a> ·
-<a href="mailto:sachin.ashok.yadav18@gmail.com">Email</a> ·
-<a href="https://github.com/sachinashokyadav">GitHub</a>
-
-</div>
+## Connect
+- LinkedIn: https://linkedin.com/in/sachin-yadav-20051999
+- Email: sachin.ashok.yadav18@gmail.com
+- GitHub: https://github.com/sachinashokyadav
 
 ---
 
 <div align="center">
-
-<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
-
+<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
 </div>
 
-<div align="center">
-  <i>Building secure, scalable, and reliable systems — one automation at a time.</i>
-</div>
-
+> Building secure, scalable, and reliable systems — one automation at a time.
