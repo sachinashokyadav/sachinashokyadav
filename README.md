@@ -22,8 +22,6 @@
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-### Automate. Secure. Scale.
-
 </div>
 
 ---
@@ -194,3 +192,11 @@ If you're interested in cloud platforms, infrastructure automation, Kubernetes, 
 <div align="center">
   <i>Building secure, scalable, and reliable systems — one automation at a time.</i>
 </div>
+
+
+<div align="center">
+
+<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
+
+</div>
+
