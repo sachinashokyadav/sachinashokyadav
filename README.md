@@ -109,27 +109,11 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 ---
 
-## 🧰 Technology toolbox
+## 🧰 Technology Toolbox
 
 <div align="center">
-
-### Cloud
-<img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure" />
-
-### Containers & orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes" />
-
-### Infrastructure & automation
-<img src="https://skillicons.dev/icons?i=terraform,ansible,bash,linux" alt="Terraform, Ansible, Bash, Linux" />
-
-### Delivery & collaboration
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins" alt="Git, GitHub, GitLab, Jenkins" />
-
-### Languages & configuration
-<img src="https://skillicons.dev/icons?i=python,yaml" alt="Python and YAML" />
-
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins&perline=7" alt="AWS, Azure, Kubernetes, Docker, Terraform, Ansible, Jenkins" />
 </div>
-
 
 ---
 
