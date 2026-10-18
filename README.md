@@ -95,7 +95,7 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 - Autoscaling and rollout / rollback demonstrations
 - Operational runbook and architecture diagram
 
-**Repository:** _Add link after publishing_
+**Repository:** https://github.com/sachinashokyadav/devops_tools.git
 
 ### 04 · Ansible configuration automation
 **Goal:** Make repeatable server configuration easy to understand and maintain.
@@ -107,7 +107,7 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 - Clear inventory structure and usage documentation
 - Safe handling guidance for secrets
 
-**Repository:** _Add link after publishing_
+**Repository:** https://github.com/sachinashokyadav/devops_tools.git
 
 ---
 
@@ -132,17 +132,6 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 </div>
 
-<details>
-<summary><b>Additional tools and platforms</b></summary>
-<br/>
-
-- **Security:** Fortify, SonarQube, Trivy, OWASP Dependency-Check, JFrog Xray
-- **Artifacts & builds:** JFrog Artifactory, Amazon ECR, Maven
-- **Container platforms:** OpenShift, Amazon EKS
-- **Enterprise applications:** IIS, IBM WebSphere, Oracle WebLogic
-- **Database:** Microsoft SQL Server
-
-</details>
 
 ---
 
