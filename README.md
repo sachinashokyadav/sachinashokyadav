@@ -1,7 +1,3 @@
-<!-- Banner: replace banner.png if you use a different file -->
-<div align="center">
-  <img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
-</div>
 
 <div align="center">
 
@@ -93,6 +89,11 @@ Core focus: Cloud Infrastructure · Platform Engineering · CI/CD · DevSecOps �
 </details>
 
 ---
+
+<!-- Banner: replace banner.png if you use a different file -->
+<div align="center">
+  <img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
+</div>
 
 <div align="center">
 > Building secure, scalable, and reliable systems — one automation at a time.
