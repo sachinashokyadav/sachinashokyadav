@@ -16,23 +16,36 @@
 
 ## About
 
-DevOps / DevSecOps Engineer with 5+ years of experience automating CI/CD pipelines, managing cloud infrastructure, and deploying containerized applications. Focused on secure, scalable, and repeatable delivery using **AWS, Azure, Kubernetes, Terraform, Docker, and GitLab CI/CD**.
+DevOps / DevSecOps Engineer with 5+ years of experience automating CI/CD pipelines, managing cloud infrastructure, and deploying containerized applications. Focused on secure, scalable delivery using **AWS, Azure, Kubernetes, OpenShift, Terraform, Docker, and GitLab CI/CD**.
 
 ## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,git,github,gitlab,jenkins,bash,linux" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible, Git, GitHub, GitLab, Jenkins, Bash, Linux" />
+
+**Cloud · Containers · Infrastructure as Code**
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible&perline=6" alt="AWS, Azure, Docker, Kubernetes, Terraform, Ansible" />
+
+**CI/CD · Source Control · Scripting · Operating Systems**
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,jenkins,bash,linux&perline=6" alt="Git, GitHub, GitLab, Jenkins, Bash, Linux" />
+
+**OpenShift**
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openshift/openshift-original.svg" alt="OpenShift" width="48" height="48" />
+
 </div>
 
-**DevSecOps:** SonarQube · Trivy · Fortify · OWASP Dependency-Check · JFrog Xray  
-**Platforms:** Amazon EKS · OpenShift · JFrog Artifactory · Amazon ECR
+**DevSecOps & Code Quality:** Fortify · SonarQube · Trivy · OWASP Dependency-Check · JFrog Xray  
+**Artifact & Container Registry:** JFrog Artifactory · Amazon ECR  
+**Platforms & Tools:** Amazon EKS · OpenShift · Maven · GitLab Runners · Ansible
 
 ## Featured Projects
 
 | Project | Focus |
 |---|---|
-| **AWS Infrastructure with Terraform** | Reusable IaC modules and cloud environment provisioning |
-| **Secure CI/CD Pipeline** | Automated builds, security scans, and container publishing |
+| **AWS Infrastructure with Terraform** | Reusable Infrastructure as Code modules and cloud environment provisioning |
+| **Secure CI/CD Pipeline** | Automated builds, code-quality checks, security scans, and container publishing |
 | **Kubernetes on Amazon EKS** | Container deployments, health checks, scaling, and rollbacks |
 
 *Project links will be added as repositories are published.*
@@ -42,12 +55,24 @@ DevOps / DevSecOps Engineer with 5+ years of experience automating CI/CD pipelin
 <div align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true" alt="GitHub stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachinashokyadav&layout=compact&hide_border=true" alt="Top languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinashokyadav&theme=github-compact&hide_border=true" alt="Contribution activity graph" width="100%" />
+</div>
+
+<div align="center">
+
+**Contribution Activity**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sachinashokyadav&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+
+[View contribution activity directly on GitHub](https://github.com/sachinashokyadav)
+
 </div>
 
 ## Certifications
 
-AWS Certified Cloud Practitioner · Microsoft Azure Administrator Associate (AZ-104) · Azure Fundamentals (AZ-900)
+- AWS Certified Cloud Practitioner
+- Microsoft Azure Administrator Associate (AZ-104)
+- Microsoft Azure Fundamentals (AZ-900)
+- DevOps Institute — DevOps & Cloud Computing
 
 ---
 
