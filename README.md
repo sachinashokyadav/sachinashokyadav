@@ -38,7 +38,7 @@ I work at the intersection of **cloud infrastructure, platform engineering, CI/C
 - 🏗️ Infrastructure as Code: Terraform and Ansible
 - 🔐 Secure delivery: Fortify, SonarQube, JFrog Xray, Trivy, OWASP Dependency-Check
 - 🧰 Artifact and build tooling: JFrog Artifactory, Amazon ECR, Maven
-- 🖥️ Systems: RHEL Linux, Windows Server, IIS, IBM WebSphere, Oracle WebLogic
+- 🖥️ Systems: RHEL Linux, Windows Server, IIS
 
 I use this GitHub profile to document hands-on labs, reusable automation, architecture decisions, and practical DevSecOps patterns.
 
@@ -71,7 +71,7 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 - Input validation, outputs, and documented deployment / teardown steps
 - Security-conscious defaults and a clear cost-cleanup guide
 
-**Repository:** _Add link after publishing_
+**Repository:** https://github.com/sachinashokyadav/devops_tools.git
 
 ### 02 · Secure CI/CD reference pipeline
 **Goal:** Demonstrate a build-to-deploy workflow with security integrated early.
@@ -83,7 +83,7 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 - Publish versioned artifacts and container images
 - Document quality gates and failure handling
 
-**Repository:** _Add link after publishing_
+**Repository:** https://github.com/sachinashokyadav/devops_tools.git
 
 ### 03 · Kubernetes application platform on Amazon EKS
 **Goal:** Show a production-minded deployment pattern for containerized workloads.
@@ -175,10 +175,11 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 ## 🏅 Certifications
 
-- AWS Certified Cloud Practitioner
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure Fundamentals (AZ-900)
 - DevOps and Cloud Computing — DevOps Institute, Mumbai
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- AWS Certified Cloud Practitioner
+- Microsoft Certified: Azure Fundamentals (AZ-900)
+
 
 ## 🎓 Education
 
