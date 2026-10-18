@@ -40,10 +40,6 @@ I work with cloud platforms, container orchestration, Infrastructure as Code, an
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,gitlab,github" alt="Docker, Kubernetes, Jenkins, GitLab, GitHub" />
 
-**Development & Operations**
-
-<img src="https://skillicons.dev/icons?i=bash,linux,git,maven" alt="Bash, Linux, Git, Maven" />
-
 </div>
 
 **Security & Quality Tools**
