@@ -6,24 +6,11 @@
 
 <div align="center">
 
-<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
-
 # Sachin Yadav
 ### Senior DevSecOps Engineer
 
 **Cloud Infrastructure · CI/CD · Kubernetes · DevSecOps**
 
-<a href="https://linkedin.com/in/sachin-yadav-20051999"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-<a href="mailto:sachin.ashok.yadav18@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
-
-</div>
-------------
-
-<div align="center">
-
-<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
-
-<br/>
 
 <a href="https://linkedin.com/in/sachin-yadav-20051999">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
