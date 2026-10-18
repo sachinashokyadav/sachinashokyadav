@@ -9,7 +9,7 @@
 # Sachin Yadav
 ### Senior DevSecOps Engineer
 
-**Cloud Infrastructure · CI/CD · Kubernetes · DevSecOps**
+**Cloud Infrastructure · CI/CD · Kubernetes · Automation**
 
 
 <a href="https://linkedin.com/in/sachin-yadav-20051999">
@@ -23,8 +23,6 @@
 </a>
 
 ### Automate. Secure. Scale.
-
-**Senior DevSecOps Engineer** building reliable delivery pipelines, cloud infrastructure, and container platforms.
 
 </div>
 
@@ -59,7 +57,7 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 > **Portfolio integrity:** Project ideas below are intended as a roadmap. Link each item to a repository only after the implementation is published.
 
-## 🚀 Featured engineering projects
+## 🚀 Featured projects
 
 <!-- Replace the placeholder links with your real repositories when published. -->
 
