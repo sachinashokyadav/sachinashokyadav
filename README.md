@@ -148,15 +148,6 @@ I use this GitHub profile to document hands-on labs, reusable automation, archit
 
 </div>
 
----
-
-## 🧩 Engineering principles
-
-- **Infrastructure as Code:** keep infrastructure repeatable, reviewable, and version-controlled.
-- **Shift-left security:** integrate code, dependency, and image scanning into delivery workflows.
-- **Automation first:** reduce manual, error-prone operational steps with pipelines and configuration management.
-- **Operational readiness:** document health checks, rollback plans, troubleshooting, and cleanup.
-- **Continuous improvement:** measure delivery outcomes rather than relying on unsupported claims.
 
 ---
 
@@ -190,13 +181,12 @@ If you're interested in cloud platforms, infrastructure automation, Kubernetes, 
 ---
 
 <div align="center">
-  <i>Building secure, scalable, and reliable systems — one automation at a time.</i>
-</div>
-
-
-<div align="center">
 
 <img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%" />
 
+</div>
+
+<div align="center">
+  <i>Building secure, scalable, and reliable systems — one automation at a time.</i>
 </div>
 
