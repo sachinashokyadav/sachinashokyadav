@@ -1,10 +1,6 @@
  <div align="center">
 
-# Sachin Yadav
-
-### Senior DevSecOps Engineer
-
-**Cloud Infrastructure | Platform Engineering | CI/CD | Security Automation**
+<img src="banner.png" alt="Sachin Yadav — Senior DevSecOps Engineer" width="100%"/>
 
 Building secure, scalable, and reliable cloud platforms through automation and engineering best practices.
 
