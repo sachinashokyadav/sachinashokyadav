@@ -6,35 +6,33 @@
 <div align="center">
 
 # Sachin Yadav
-**Senior DevSecOps Engineer**  
-Building secure, scalable, and repeatable cloud platforms, CI/CD pipelines, and automation for production environments.
-
-<br />
+**Senior DevSecOps Engineer** · Cloud · CI/CD · Kubernetes · Security Automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-yadav-20051999)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachin.ashok.yadav18@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinashokyadav)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachinashokyadav)
 
 </div>
 
 ---
 
 ## About
-I design and implement production-ready cloud platforms, platform engineering patterns, and secure delivery pipelines. My work focuses on delivering repeatable infrastructure, resilient Kubernetes platforms, and CI/CD with integrated security checks to reduce risk and speed delivery.
+I design and deliver production-ready cloud platforms, secure CI/CD pipelines, and automation that enable teams to ship faster with lower risk. I balance reliability, security and cost by using Infrastructure-as-Code, platform engineering practices, and shift-left security.
 
-Key focus: Cloud infrastructure · Platform engineering · CI/CD · DevSecOps · Automation
-
----
-
-## Highlights
-- Built repeatable AWS environments with modular Terraform
-- Production-minded Kubernetes patterns (EKS / OpenShift) with runbooks
-- Secure CI/CD reference pipelines: code, dependency, and image scanning
-- Automation and configuration management with Ansible and Terraform
+Core focus: Cloud Infrastructure · Platform Engineering · CI/CD · DevSecOps · Automation
 
 ---
 
-## Tech stack
+## What I do
+- Architect and implement repeatable cloud environments (AWS / Azure) with Terraform
+- Build and secure CI/CD pipelines (GitLab CI/CD, Jenkins, GitHub Actions)
+- Operate production Kubernetes platforms (EKS, OpenShift) and app deployments
+- Integrate automated security (SAST, dependency & image scanning) into delivery
+- Create runbooks, observability, and recovery playbooks for operational readiness
+
+---
+
+## Core technologies
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,docker,terraform,ansible,jenkins,gitlab,github,trivy,sonarqube&perline=11" alt="Tech icons" />
 </div>
@@ -43,9 +41,21 @@ Key focus: Cloud infrastructure · Platform engineering · CI/CD · DevSecOps ·
 
 ## Featured projects
 - DevOps toolkit — https://github.com/sachinashokyadav/devops_tools  
-  Reusable Terraform modules, CI/CD pipeline templates with SAST/DAST/image scanning, Kubernetes deployment patterns, and Ansible roles for repeatable server configuration.
+  A practical collection of:
+  - Reusable Terraform modules and environment blueprints
+  - CI/CD pipeline templates with SAST/DAST & image scanning
+  - Kubernetes deployment patterns, probes, autoscaling and runbooks
+  - Ansible roles for idempotent, secure configuration
 
-(If you prefer, I can split major modules into individual repositories and add direct links to each.)
+(Ask me to split modules into separate repos or link to specific folders if you'd like direct navigation.)
+
+---
+
+## How I approach problems
+- Infrastructure as code: small, testable modules with clear inputs/outputs
+- Shift-left security: automated scans + quality gates in CI pipelines
+- Observability first: metrics, logs and runbooks for incident readiness
+- Least privilege & idempotency: secure defaults and repeatable automation
 
 ---
 
@@ -58,11 +68,10 @@ Key focus: Cloud infrastructure · Platform engineering · CI/CD · DevSecOps ·
 
 ---
 
-## How I work
-- Infrastructure as code with clear inputs/outputs and reviewable modules
-- Shift-left security: automated scanning in CI pipelines and policy gates
-- Observability and runbooks for operational readiness and rapid recovery
-- Idempotent automation and least-privilege access patterns
+## Open to
+- Technical leadership roles in Cloud / Platform / DevSecOps
+- Collaboration on infrastructure, pipeline or platform projects
+- Speaking or mentoring on secure delivery and platform practices
 
 ---
 
@@ -74,11 +83,11 @@ Key focus: Cloud infrastructure · Platform engineering · CI/CD · DevSecOps ·
 ---
 
 <details>
-<summary>Optional: GitHub stats</summary>
+<summary>Optional: GitHub stats (click to expand)</summary>
 
 <div align="center">
 
-[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true&theme=dark&include_all_commits=true)](https://github.com/sachinashokyadav)
+[![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinashokyadav&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true)](https://github.com/sachinashokyadav)
 
 </div>
 </details>
